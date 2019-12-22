@@ -11,3 +11,5 @@ public class GameApplication {
 	}
 
 }
+
+//logging.level.org.springframework = debug
